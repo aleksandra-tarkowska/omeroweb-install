@@ -10,3 +10,7 @@ ansible/.DS_Store
 **/debian10-*/**
 **/osx*/**
 **/doc/**
+**/docs/_build
+**/docs/walkthrough
+**/docs/*.conf
+*.pyc

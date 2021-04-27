@@ -1,0 +1,11 @@
+name: docs-build
+channels:
+  - conda-forge
+  - ome
+dependencies:
+  - ansible
+  - pip
+  #- omero-py
+  - pip:
+    #- omero-web
+    - sphinx
